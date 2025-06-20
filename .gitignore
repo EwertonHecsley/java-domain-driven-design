@@ -1,0 +1,38 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+/target/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Arquivos de sistema
+.env
+*.bak
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code specific
+.vscode/
